@@ -125,7 +125,7 @@
     }
 @media (min-width:758px) {
   main{
-    grid-template-areas: 'header picture' 'container picture';
+    grid-template-areas: 'header . picture' 'container . picture';
   }
   .container01{
     width: 25.813rem;
